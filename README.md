@@ -1,3 +1,3 @@
 # iOSDemo
-ios study demo
+ios study demo.  
 made with xcode10.1
